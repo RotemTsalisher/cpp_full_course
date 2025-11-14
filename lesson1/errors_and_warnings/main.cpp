@@ -2,7 +2,7 @@
 
 #define SUCCESS 0
 
-//#define COMP_ERR_
+#define COMP_ERR_
 //#define RUN_ERR_
 //#define WARNING_
 
@@ -10,12 +10,11 @@ int main()
 {
 #ifdef COMP_ERR_
 	std::cout << "Hello Wotld in C++20!" << std::endl
-#endif
-#ifdef RUN_ERR_
+#elif defined( RUN_ERR_)
 	int i = 0;
 	for (i;;i++);
-#endif
-#ifdef WARNING_
+
+#elif defined( WARNING_ )
 	int x = 20;
 	float y = x;
 #endif
