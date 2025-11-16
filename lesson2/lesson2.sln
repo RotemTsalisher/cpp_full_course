@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "functions", "functions\func
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "functions_overload", "functions_overload\functions_overload.vcxproj", "{61D17974-754A-40D8-A321-58487E273397}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stdcout_and_streams", "stdcout_and_streams\stdcout_and_streams.vcxproj", "{E96498A1-C527-47AE-B8A3-5397814CB53B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stdcerr_and_stdclog", "stdcerr_and_stdclog\stdcerr_and_stdclog.vcxproj", "{F488A10A-DAFC-42C9-B401-206759D16CA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +45,22 @@ Global
 		{61D17974-754A-40D8-A321-58487E273397}.Release|x64.Build.0 = Release|x64
 		{61D17974-754A-40D8-A321-58487E273397}.Release|x86.ActiveCfg = Release|Win32
 		{61D17974-754A-40D8-A321-58487E273397}.Release|x86.Build.0 = Release|Win32
+		{E96498A1-C527-47AE-B8A3-5397814CB53B}.Debug|x64.ActiveCfg = Debug|x64
+		{E96498A1-C527-47AE-B8A3-5397814CB53B}.Debug|x64.Build.0 = Debug|x64
+		{E96498A1-C527-47AE-B8A3-5397814CB53B}.Debug|x86.ActiveCfg = Debug|Win32
+		{E96498A1-C527-47AE-B8A3-5397814CB53B}.Debug|x86.Build.0 = Debug|Win32
+		{E96498A1-C527-47AE-B8A3-5397814CB53B}.Release|x64.ActiveCfg = Release|x64
+		{E96498A1-C527-47AE-B8A3-5397814CB53B}.Release|x64.Build.0 = Release|x64
+		{E96498A1-C527-47AE-B8A3-5397814CB53B}.Release|x86.ActiveCfg = Release|Win32
+		{E96498A1-C527-47AE-B8A3-5397814CB53B}.Release|x86.Build.0 = Release|Win32
+		{F488A10A-DAFC-42C9-B401-206759D16CA2}.Debug|x64.ActiveCfg = Debug|x64
+		{F488A10A-DAFC-42C9-B401-206759D16CA2}.Debug|x64.Build.0 = Debug|x64
+		{F488A10A-DAFC-42C9-B401-206759D16CA2}.Debug|x86.ActiveCfg = Debug|Win32
+		{F488A10A-DAFC-42C9-B401-206759D16CA2}.Debug|x86.Build.0 = Debug|Win32
+		{F488A10A-DAFC-42C9-B401-206759D16CA2}.Release|x64.ActiveCfg = Release|x64
+		{F488A10A-DAFC-42C9-B401-206759D16CA2}.Release|x64.Build.0 = Release|x64
+		{F488A10A-DAFC-42C9-B401-206759D16CA2}.Release|x86.ActiveCfg = Release|Win32
+		{F488A10A-DAFC-42C9-B401-206759D16CA2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

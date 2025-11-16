@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F488A10A-DAFC-42C9-B401-206759D16CA2}|stdcerr_and_stdclog\\stdcerr_and_stdclog.vcxproj|C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\stdcerr_and_stdclog\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F488A10A-DAFC-42C9-B401-206759D16CA2}|stdcerr_and_stdclog\\stdcerr_and_stdclog.vcxproj|solutionrelative:stdcerr_and_stdclog\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96498A1-C527-47AE-B8A3-5397814CB53B}|stdcout_and_streams\\stdcout_and_streams.vcxproj|C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\stdcout_and_streams\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E96498A1-C527-47AE-B8A3-5397814CB53B}|stdcout_and_streams\\stdcout_and_streams.vcxproj|solutionrelative:stdcout_and_streams\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61D17974-754A-40D8-A321-58487E273397}|functions_overload\\functions_overload.vcxproj|C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\functions_overload\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{61D17974-754A-40D8-A321-58487E273397}|functions_overload\\functions_overload.vcxproj|solutionrelative:functions_overload\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -11,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{1F024786-2AE4-4F0E-BAA8-BE5BC8D464D1}|functions\\functions.vcxproj|solutionrelative:functions\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A9E06C-21F3-4EF8-BE02-62B141D0B894}|lesson2\\lesson2.vcxproj|C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\lesson2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{78A9E06C-21F3-4EF8-BE02-62B141D0B894}|lesson2\\lesson2.vcxproj|solutionrelative:lesson2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\lesson2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lesson2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,18 +60,44 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\stdcerr_and_stdclog\\main.cpp",
+              "RelativeDocumentMoniker": "stdcerr_and_stdclog\\main.cpp",
+              "ToolTip": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\stdcerr_and_stdclog\\main.cpp",
+              "RelativeToolTip": "stdcerr_and_stdclog\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T07:43:55.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\stdcout_and_streams\\main.cpp",
+              "RelativeDocumentMoniker": "stdcout_and_streams\\main.cpp",
+              "ToolTip": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\stdcout_and_streams\\main.cpp",
+              "RelativeToolTip": "stdcout_and_streams\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T07:30:57.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\functions_overload\\main.cpp",
               "RelativeDocumentMoniker": "functions_overload\\main.cpp",
               "ToolTip": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\functions_overload\\main.cpp",
               "RelativeToolTip": "functions_overload\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-14T10:21:21.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\functions\\main.cpp",
               "RelativeDocumentMoniker": "functions\\main.cpp",
@@ -71,12 +105,11 @@
               "RelativeToolTip": "functions\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-14T10:17:38.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T10:17:38.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\lesson2\\main.cpp",
               "RelativeDocumentMoniker": "lesson2\\main.cpp",
@@ -84,8 +117,7 @@
               "RelativeToolTip": "lesson2\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-12T23:15:00.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T23:15:00.095Z"
             }
           ]
         }
