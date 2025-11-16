@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{699209BA-8EE2-4D71-AD9E-64CC7012C2C8}|greet\\greet.vcxproj|C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\greet\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{699209BA-8EE2-4D71-AD9E-64CC7012C2C8}|greet\\greet.vcxproj|solutionrelative:greet\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F488A10A-DAFC-42C9-B401-206759D16CA2}|stdcerr_and_stdclog\\stdcerr_and_stdclog.vcxproj|C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\stdcerr_and_stdclog\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F488A10A-DAFC-42C9-B401-206759D16CA2}|stdcerr_and_stdclog\\stdcerr_and_stdclog.vcxproj|solutionrelative:stdcerr_and_stdclog\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -60,6 +64,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\greet\\main.cpp",
+              "RelativeDocumentMoniker": "greet\\main.cpp",
+              "ToolTip": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\greet\\main.cpp",
+              "RelativeToolTip": "greet\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T07:54:09.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\stdcerr_and_stdclog\\main.cpp",
               "RelativeDocumentMoniker": "stdcerr_and_stdclog\\main.cpp",
               "ToolTip": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\stdcerr_and_stdclog\\main.cpp",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\stdcout_and_streams\\main.cpp",
               "RelativeDocumentMoniker": "stdcout_and_streams\\main.cpp",
@@ -79,12 +96,11 @@
               "RelativeToolTip": "stdcout_and_streams\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-16T07:30:57.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T07:30:57.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\functions_overload\\main.cpp",
               "RelativeDocumentMoniker": "functions_overload\\main.cpp",
@@ -92,12 +108,11 @@
               "RelativeToolTip": "functions_overload\\main.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-14T10:21:21.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T10:21:21.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\functions\\main.cpp",
               "RelativeDocumentMoniker": "functions\\main.cpp",
@@ -109,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson2\\lesson2\\main.cpp",
               "RelativeDocumentMoniker": "lesson2\\main.cpp",
