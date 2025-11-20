@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1EC8EF-3D1C-4790-8E52-89C8CA47D1FE}|fractional_numbers\\fractional_numbers.vcxproj|C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\fractional_numbers\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D1EC8EF-3D1C-4790-8E52-89C8CA47D1FE}|fractional_numbers\\fractional_numbers.vcxproj|solutionrelative:fractional_numbers\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BA075F-4DA6-4E08-B72D-4F933D63E1C2}|integer_modifiers\\integer_modifiers.vcxproj|C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\integer_modifiers\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6BA075F-4DA6-4E08-B72D-4F933D63E1C2}|integer_modifiers\\integer_modifiers.vcxproj|solutionrelative:integer_modifiers\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B05408-D8B1-4AC6-B843-48B8972415AB}|operations_on_nums\\operations_on_nums.vcxproj|C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\operations_on_nums\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76B05408-D8B1-4AC6-B843-48B8972415AB}|operations_on_nums\\operations_on_nums.vcxproj|solutionrelative:operations_on_nums\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C46475-09E7-4F76-B882-8F21F6ACE436}|lesson3\\lesson3.vcxproj|C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\lesson3\\data_types.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4C46475-09E7-4F76-B882-8F21F6ACE436}|lesson3\\lesson3.vcxproj|solutionrelative:lesson3\\data_types.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\fractional_numbers\\main.cpp",
+              "RelativeDocumentMoniker": "fractional_numbers\\main.cpp",
+              "ToolTip": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\fractional_numbers\\main.cpp",
+              "RelativeToolTip": "fractional_numbers\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T07:19:05.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\integer_modifiers\\main.cpp",
+              "RelativeDocumentMoniker": "integer_modifiers\\main.cpp",
+              "ToolTip": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\integer_modifiers\\main.cpp",
+              "RelativeToolTip": "integer_modifiers\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T07:03:35.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\operations_on_nums\\main.cpp",
+              "RelativeDocumentMoniker": "operations_on_nums\\main.cpp",
+              "ToolTip": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\operations_on_nums\\main.cpp",
+              "RelativeToolTip": "operations_on_nums\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T17:29:50.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "data_types.cpp",
+              "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\lesson3\\data_types.cpp",
+              "RelativeDocumentMoniker": "lesson3\\data_types.cpp",
+              "ToolTip": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\lesson3\\data_types.cpp",
+              "RelativeToolTip": "lesson3\\data_types.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T17:14:42.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
