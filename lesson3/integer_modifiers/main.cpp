@@ -9,7 +9,7 @@ int main()
 #ifdef INIT_POS_WITH_NEG
 	unsigned int v3{ -200 }; // compile error
 #endif
-
+ 
 	std::cout << "v1 = " << v1 << std::endl;
 	std::cout << "v2 = " << v2 << std::endl;
 

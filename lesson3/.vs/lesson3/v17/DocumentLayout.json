@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D1EC8EF-3D1C-4790-8E52-89C8CA47D1FE}|fractional_numbers\\fractional_numbers.vcxproj|C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\fractional_numbers\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2D1EC8EF-3D1C-4790-8E52-89C8CA47D1FE}|fractional_numbers\\fractional_numbers.vcxproj|solutionrelative:fractional_numbers\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F3B858DE-D0CF-4B90-B657-C318F2EB780E}|auto_type\\auto_type.vcxproj|C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\auto_type\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3B858DE-D0CF-4B90-B657-C318F2EB780E}|auto_type\\auto_type.vcxproj|solutionrelative:auto_type\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6BA075F-4DA6-4E08-B72D-4F933D63E1C2}|integer_modifiers\\integer_modifiers.vcxproj|C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\integer_modifiers\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E6BA075F-4DA6-4E08-B72D-4F933D63E1C2}|integer_modifiers\\integer_modifiers.vcxproj|solutionrelative:integer_modifiers\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76B05408-D8B1-4AC6-B843-48B8972415AB}|operations_on_nums\\operations_on_nums.vcxproj|C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\operations_on_nums\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{76B05408-D8B1-4AC6-B843-48B8972415AB}|operations_on_nums\\operations_on_nums.vcxproj|solutionrelative:operations_on_nums\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4C46475-09E7-4F76-B882-8F21F6ACE436}|lesson3\\lesson3.vcxproj|C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\lesson3\\data_types.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C4C46475-09E7-4F76-B882-8F21F6ACE436}|lesson3\\lesson3.vcxproj|solutionrelative:lesson3\\data_types.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C1D3847E-33D1-4B44-8628-FC9549516A77}|characters_and_text\\characters_and_text.vcxproj|C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\characters_and_text\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1D3847E-33D1-4B44-8628-FC9549516A77}|characters_and_text\\characters_and_text.vcxproj|solutionrelative:characters_and_text\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,52 +48,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\fractional_numbers\\main.cpp",
-              "RelativeDocumentMoniker": "fractional_numbers\\main.cpp",
-              "ToolTip": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\fractional_numbers\\main.cpp",
-              "RelativeToolTip": "fractional_numbers\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\auto_type\\main.cpp",
+              "RelativeDocumentMoniker": "auto_type\\main.cpp",
+              "ToolTip": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\auto_type\\main.cpp",
+              "RelativeToolTip": "auto_type\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-20T07:19:05.429Z",
+              "WhenOpened": "2025-11-20T12:55:03.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\integer_modifiers\\main.cpp",
-              "RelativeDocumentMoniker": "integer_modifiers\\main.cpp",
-              "ToolTip": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\integer_modifiers\\main.cpp",
-              "RelativeToolTip": "integer_modifiers\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\characters_and_text\\main.cpp",
+              "RelativeDocumentMoniker": "characters_and_text\\main.cpp",
+              "ToolTip": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\characters_and_text\\main.cpp",
+              "RelativeToolTip": "characters_and_text\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-20T07:03:35.794Z",
+              "WhenOpened": "2025-11-20T12:46:58.876Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\operations_on_nums\\main.cpp",
-              "RelativeDocumentMoniker": "operations_on_nums\\main.cpp",
-              "ToolTip": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\operations_on_nums\\main.cpp",
-              "RelativeToolTip": "operations_on_nums\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T17:29:50.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "data_types.cpp",
-              "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\lesson3\\data_types.cpp",
-              "RelativeDocumentMoniker": "lesson3\\data_types.cpp",
-              "ToolTip": "C:\\Users\\rotemt\\source\\cpp_course\\lesson3\\lesson3\\data_types.cpp",
-              "RelativeToolTip": "lesson3\\data_types.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T17:14:42.04Z"
             }
           ]
         }
