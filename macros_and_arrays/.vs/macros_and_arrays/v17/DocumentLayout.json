@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rotemt\\source\\cpp_course\\macros_and_arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79801325-A5BA-4D21-B554-CD9A1D10B19B}|macros_and_arrays\\macros_and_arrays.vcxproj|C:\\Users\\rotemt\\source\\cpp_course\\macros_and_arrays\\macros_and_arrays\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79801325-A5BA-4D21-B554-CD9A1D10B19B}|macros_and_arrays\\macros_and_arrays.vcxproj|solutionrelative:macros_and_arrays\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\rotemt\\source\\cpp_course\\macros_and_arrays\\macros_and_arrays\\main.c",
+              "RelativeDocumentMoniker": "macros_and_arrays\\main.c",
+              "ToolTip": "C:\\Users\\rotemt\\source\\cpp_course\\macros_and_arrays\\macros_and_arrays\\main.c",
+              "RelativeToolTip": "macros_and_arrays\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-25T18:55:20.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

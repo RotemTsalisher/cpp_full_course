@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\rotemt\source\cpp_course\lesson9\auto_itterator\main.cpp(6,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rotemt\source\cpp_course\lesson9\auto_itterator\main.cpp(6,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rotemt\source\cpp_course\lesson9\auto_itterator\main.cpp(6,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rotemt\source\cpp_course\lesson9\auto_itterator\main.cpp(6,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  auto_itterator.vcxproj -> C:\Users\rotemt\source\cpp_course\lesson9\x64\Debug\auto_itterator.exe

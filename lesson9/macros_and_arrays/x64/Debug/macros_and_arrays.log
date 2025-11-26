@@ -1,0 +1,7 @@
+﻿  macros_and_arrays.cpp
+C:\Users\rotemt\source\cpp_course\lesson9\macros_and_arrays\macros_and_arrays.cpp(21,3): error C2760: syntax error: '=' was unexpected here; expected '{'
+C:\Users\rotemt\source\cpp_course\lesson9\macros_and_arrays\macros_and_arrays.cpp(23,2): error C2059: syntax error: '}'
+C:\Users\rotemt\source\cpp_course\lesson9\macros_and_arrays\macros_and_arrays.cpp(23,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\rotemt\source\cpp_course\lesson9\macros_and_arrays\macros_and_arrays.cpp(24,2): error C2059: syntax error: 'return'
+C:\Users\rotemt\source\cpp_course\lesson9\macros_and_arrays\macros_and_arrays.cpp(25,1): error C2059: syntax error: '}'
+C:\Users\rotemt\source\cpp_course\lesson9\macros_and_arrays\macros_and_arrays.cpp(25,1): error C2143: syntax error: missing ';' before '}'

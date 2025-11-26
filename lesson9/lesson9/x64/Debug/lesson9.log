@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\rotemt\source\cpp_course\lesson9\lesson9\main.cpp(17,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  lesson9.vcxproj -> C:\Users\rotemt\source\cpp_course\lesson9\x64\Debug\arrays.exe

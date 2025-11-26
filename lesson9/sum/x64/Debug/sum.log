@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\rotemt\source\cpp_course\lesson9\sum\main.cpp(5,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rotemt\source\cpp_course\lesson9\sum\main.cpp(5,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  sum.vcxproj -> C:\Users\rotemt\source\cpp_course\lesson9\x64\Debug\sum.exe
