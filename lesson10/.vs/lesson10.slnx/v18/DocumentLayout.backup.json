@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rtmts\\source\\repos\\lesson10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E9FE3-B748-4B35-AC76-25B9983F6C18}|array_of_chars\\array_of_chars.vcxproj|C:\\Users\\rtmts\\source\\repos\\lesson10\\array_of_chars\\array_of_chars.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD0E9FE3-B748-4B35-AC76-25B9983F6C18}|array_of_chars\\array_of_chars.vcxproj|solutionrelative:array_of_chars\\array_of_chars.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597DB95F-0830-4729-8672-971D6FBC7997}|arrays_adv\\arrays_adv.vcxproj|C:\\Users\\rtmts\\source\\repos\\lesson10\\arrays_adv\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{597DB95F-0830-4729-8672-971D6FBC7997}|arrays_adv\\arrays_adv.vcxproj|solutionrelative:arrays_adv\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8487B4-F0D7-42D2-8C10-081967CAE9BF}|lesson10\\lesson10.vcxproj|C:\\Users\\rtmts\\source\\repos\\lesson10\\lesson10\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B8487B4-F0D7-42D2-8C10-081967CAE9BF}|lesson10\\lesson10.vcxproj|solutionrelative:lesson10\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "array_of_chars.cpp",
+              "DocumentMoniker": "C:\\Users\\rtmts\\source\\repos\\lesson10\\array_of_chars\\array_of_chars.cpp",
+              "RelativeDocumentMoniker": "array_of_chars\\array_of_chars.cpp",
+              "ToolTip": "C:\\Users\\rtmts\\source\\repos\\lesson10\\array_of_chars\\array_of_chars.cpp",
+              "RelativeToolTip": "array_of_chars\\array_of_chars.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T07:19:25.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rtmts\\source\\repos\\lesson10\\arrays_adv\\main.cpp",
+              "RelativeDocumentMoniker": "arrays_adv\\main.cpp",
+              "ToolTip": "C:\\Users\\rtmts\\source\\repos\\lesson10\\arrays_adv\\main.cpp",
+              "RelativeToolTip": "arrays_adv\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T07:05:24.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rtmts\\source\\repos\\lesson10\\lesson10\\main.cpp",
+              "RelativeDocumentMoniker": "lesson10\\main.cpp",
+              "ToolTip": "C:\\Users\\rtmts\\source\\repos\\lesson10\\lesson10\\main.cpp",
+              "RelativeToolTip": "lesson10\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T06:56:54.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

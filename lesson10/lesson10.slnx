@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="arrays_adv/arrays_adv.vcxproj" Id="597db95f-0830-4729-8672-971d6fbc7997" />
+  <Project Path="array_of_chars/array_of_chars.vcxproj" Id="fd0e9fe3-b748-4b35-ac76-25b9983f6c18" />
+  <Project Path="lesson10/lesson10.vcxproj" Id="4b8487b4-f0d7-42d2-8c10-081967cae9bf" />
+</Solution>
