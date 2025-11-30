@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\rtmts\\source\\cpp_full_course\\lesson11\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{68319867-DE1B-4A8F-9FBB-A67A41C3A3FE}|ptrs\\ptrs.vcxproj|C:\\Users\\rtmts\\source\\cpp_full_course\\lesson11\\ptrs\\ptrs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68319867-DE1B-4A8F-9FBB-A67A41C3A3FE}|ptrs\\ptrs.vcxproj|solutionrelative:ptrs\\ptrs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FC79C9C8-56BF-4A7A-9ECA-8134E8755475}|lesson11\\lesson11.vcxproj|C:\\Users\\rtmts\\source\\cpp_full_course\\lesson11\\lesson11\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FC79C9C8-56BF-4A7A-9ECA-8134E8755475}|lesson11\\lesson11.vcxproj|solutionrelative:lesson11\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ptrs.cpp",
+              "DocumentMoniker": "C:\\Users\\rtmts\\source\\cpp_full_course\\lesson11\\ptrs\\ptrs.cpp",
+              "RelativeDocumentMoniker": "ptrs\\ptrs.cpp",
+              "ToolTip": "C:\\Users\\rtmts\\source\\cpp_full_course\\lesson11\\ptrs\\ptrs.cpp",
+              "RelativeToolTip": "ptrs\\ptrs.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T17:55:38.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\rtmts\\source\\cpp_full_course\\lesson11\\lesson11\\main.cpp",
               "RelativeDocumentMoniker": "lesson11\\main.cpp",
