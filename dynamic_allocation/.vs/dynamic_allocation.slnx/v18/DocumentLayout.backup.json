@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C98FEF-AD7F-4523-B035-ACEA7148145C}|dynamic_allocation\\dynamic_allocation.vcxproj|C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\dynamic_allocation\\dynamic_allocation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32C98FEF-AD7F-4523-B035-ACEA7148145C}|dynamic_allocation\\dynamic_allocation.vcxproj|solutionrelative:dynamic_allocation\\dynamic_allocation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFD7B3E-871F-44E4-B03A-D6CE84C4253F}|master_ptr\\master_ptr.vcxproj|C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\master_ptr\\master_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EFD7B3E-871F-44E4-B03A-D6CE84C4253F}|master_ptr\\master_ptr.vcxproj|solutionrelative:master_ptr\\master_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7F772-E443-4445-A141-8BF0C1E9A971}|dangling\\dangling.vcxproj|C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\dangling\\dangling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCC7F772-E443-4445-A141-8BF0C1E9A971}|dangling\\dangling.vcxproj|solutionrelative:dangling\\dangling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F39F54-1687-4B8A-9E8F-7B5ECC0F8892}|ptrs_and_funcs\\ptrs_and_funcs.vcxproj|C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\ptrs_and_funcs\\ptrs_and_funcs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19F39F54-1687-4B8A-9E8F-7B5ECC0F8892}|ptrs_and_funcs\\ptrs_and_funcs.vcxproj|solutionrelative:ptrs_and_funcs\\ptrs_and_funcs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dynamic_allocation.cpp",
+              "DocumentMoniker": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\dynamic_allocation\\dynamic_allocation.cpp",
+              "RelativeDocumentMoniker": "dynamic_allocation\\dynamic_allocation.cpp",
+              "ToolTip": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\dynamic_allocation\\dynamic_allocation.cpp",
+              "RelativeToolTip": "dynamic_allocation\\dynamic_allocation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T05:55:47.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "master_ptr.cpp",
+              "DocumentMoniker": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\master_ptr\\master_ptr.cpp",
+              "RelativeDocumentMoniker": "master_ptr\\master_ptr.cpp",
+              "ToolTip": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\master_ptr\\master_ptr.cpp",
+              "RelativeToolTip": "master_ptr\\master_ptr.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T06:36:14.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dangling.cpp",
+              "DocumentMoniker": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\dangling\\dangling.cpp",
+              "RelativeDocumentMoniker": "dangling\\dangling.cpp",
+              "ToolTip": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\dangling\\dangling.cpp",
+              "RelativeToolTip": "dangling\\dangling.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T06:29:51.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ptrs_and_funcs.cpp",
+              "DocumentMoniker": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\ptrs_and_funcs\\ptrs_and_funcs.cpp",
+              "RelativeDocumentMoniker": "ptrs_and_funcs\\ptrs_and_funcs.cpp",
+              "ToolTip": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\ptrs_and_funcs\\ptrs_and_funcs.cpp",
+              "RelativeToolTip": "ptrs_and_funcs\\ptrs_and_funcs.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T06:05:12.048Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
