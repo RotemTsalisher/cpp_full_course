@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B984EC6A-20FE-495F-8ABE-64AF05836628}|mem_leak\\mem_leak.vcxproj|C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\mem_leak\\mem_leak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B984EC6A-20FE-495F-8ABE-64AF05836628}|mem_leak\\mem_leak.vcxproj|solutionrelative:mem_leak\\mem_leak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32C98FEF-AD7F-4523-B035-ACEA7148145C}|dynamic_allocation\\dynamic_allocation.vcxproj|C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\dynamic_allocation\\dynamic_allocation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{32C98FEF-AD7F-4523-B035-ACEA7148145C}|dynamic_allocation\\dynamic_allocation.vcxproj|solutionrelative:dynamic_allocation\\dynamic_allocation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -55,19 +59,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "mem_leak.cpp",
+              "DocumentMoniker": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\mem_leak\\mem_leak.cpp",
+              "RelativeDocumentMoniker": "mem_leak\\mem_leak.cpp",
+              "ToolTip": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\mem_leak\\mem_leak.cpp",
+              "RelativeToolTip": "mem_leak\\mem_leak.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T18:38:44.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "dynamic_allocation.cpp",
               "DocumentMoniker": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\dynamic_allocation\\dynamic_allocation.cpp",
               "RelativeDocumentMoniker": "dynamic_allocation\\dynamic_allocation.cpp",
               "ToolTip": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\dynamic_allocation\\dynamic_allocation.cpp",
               "RelativeToolTip": "dynamic_allocation\\dynamic_allocation.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-02T05:55:47.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "master_ptr.cpp",
               "DocumentMoniker": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\master_ptr\\master_ptr.cpp",
               "RelativeDocumentMoniker": "master_ptr\\master_ptr.cpp",
@@ -75,12 +92,11 @@
               "RelativeToolTip": "master_ptr\\master_ptr.cpp",
               "ViewState": "AgIAAA4AAAAAAAAAAAAUwA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-02T06:36:14.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T06:36:14.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "dangling.cpp",
               "DocumentMoniker": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\dangling\\dangling.cpp",
               "RelativeDocumentMoniker": "dangling\\dangling.cpp",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ptrs_and_funcs.cpp",
               "DocumentMoniker": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamic_allocation\\ptrs_and_funcs\\ptrs_and_funcs.cpp",
               "RelativeDocumentMoniker": "ptrs_and_funcs\\ptrs_and_funcs.cpp",

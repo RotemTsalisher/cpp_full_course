@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamicArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1459C70A-C227-4B89-AE05-0C030049595F}|refs_and_ptrs\\refs_and_ptrs.vcxproj|C:\\Users\\rtmts\\source\\cpp_full_course\\dynamicArrays\\refs_and_ptrs\\refs_and_ptrs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1459C70A-C227-4B89-AE05-0C030049595F}|refs_and_ptrs\\refs_and_ptrs.vcxproj|solutionrelative:refs_and_ptrs\\refs_and_ptrs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38347F46-7C5E-4F78-88D4-EA3A7DC60FD4}|references\\references.vcxproj|C:\\Users\\rtmts\\source\\cpp_full_course\\dynamicArrays\\references\\double_arr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38347F46-7C5E-4F78-88D4-EA3A7DC60FD4}|references\\references.vcxproj|solutionrelative:references\\double_arr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0236223E-431A-4161-B634-48594C745AC8}|dynamicArrays\\dynamicArrays.vcxproj|C:\\Users\\rtmts\\source\\cpp_full_course\\dynamicArrays\\dynamicArrays\\dynamicArrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0236223E-431A-4161-B634-48594C745AC8}|dynamicArrays\\dynamicArrays.vcxproj|solutionrelative:dynamicArrays\\dynamicArrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "refs_and_ptrs.cpp",
+              "DocumentMoniker": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamicArrays\\refs_and_ptrs\\refs_and_ptrs.cpp",
+              "RelativeDocumentMoniker": "refs_and_ptrs\\refs_and_ptrs.cpp",
+              "ToolTip": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamicArrays\\refs_and_ptrs\\refs_and_ptrs.cpp",
+              "RelativeToolTip": "refs_and_ptrs\\refs_and_ptrs.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T07:09:51.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "double_arr.cpp",
+              "DocumentMoniker": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamicArrays\\references\\double_arr.cpp",
+              "RelativeDocumentMoniker": "references\\double_arr.cpp",
+              "ToolTip": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamicArrays\\references\\double_arr.cpp",
+              "RelativeToolTip": "references\\double_arr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T06:57:57.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dynamicArrays.cpp",
+              "DocumentMoniker": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamicArrays\\dynamicArrays\\dynamicArrays.cpp",
+              "RelativeDocumentMoniker": "dynamicArrays\\dynamicArrays.cpp",
+              "ToolTip": "C:\\Users\\rtmts\\source\\cpp_full_course\\dynamicArrays\\dynamicArrays\\dynamicArrays.cpp",
+              "RelativeToolTip": "dynamicArrays\\dynamicArrays.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-05T05:23:58.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

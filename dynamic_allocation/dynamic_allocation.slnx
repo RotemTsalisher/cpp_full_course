@@ -7,5 +7,6 @@
   <Project Path="dynamic_allocation/dynamic_allocation.vcxproj" Id="32c98fef-ad7f-4523-b035-acea7148145c" />
   <Project Path="filed_allocation/filed_allocation.vcxproj" Id="1b2c73a1-fe3b-4134-9268-856b7479501d" />
   <Project Path="master_ptr/master_ptr.vcxproj" Id="6efd7b3e-871f-44e4-b03a-d6ce84c4253f" />
+  <Project Path="mem_leak/mem_leak.vcxproj" Id="b984ec6a-20fe-495f-8abe-64af05836628" />
   <Project Path="ptrs_and_funcs/ptrs_and_funcs.vcxproj" Id="19f39f54-1687-4b8a-9e8f-7b5ecc0f8892" />
 </Solution>

@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="dynamicArrays/dynamicArrays.vcxproj" />
+  <Project Path="references/references.vcxproj" />
+  <Project Path="refs_and_ptrs/refs_and_ptrs.vcxproj" />
+</Solution>
